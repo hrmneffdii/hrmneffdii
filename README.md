@@ -1,5 +1,5 @@
 <h1>
-  Hello there! I'm <a href="https://github.com/Defcon27"> Herman </a>  
+  Hi there! I'm <a href="https://github.com/Defcon27"> Herman </a>  
   <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 </h1> 
 
