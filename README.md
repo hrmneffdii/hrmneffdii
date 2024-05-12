@@ -4,6 +4,6 @@
 </h1> 
 
 ### Let's connect 🤝
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hrmneffdii/hrmneffdii)](https://github.com/hrmneffdii/hrmneffdii)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hrmneffdii)](https://github.com/hrmneffdii)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herman-effendi/)](https://www.linkedin.com/in/herman-effendi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hermaneffendi0502@gmail.com)](mailto:hermaneffendi0502@gmail.com)
