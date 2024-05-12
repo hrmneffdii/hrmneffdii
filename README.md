@@ -3,7 +3,7 @@
   <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 </h1> 
 
-<img src="images/me.jpg" align="right" />
+<img src="me.jpg" align="right" />
 
 Hello, my name is Herman Effendi and I am a data science student at Universitas Airlangga. 
 
