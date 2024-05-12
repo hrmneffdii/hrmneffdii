@@ -3,6 +3,12 @@
   <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 </h1> 
 
+<img src="images/me.jpg" align="right" />
+
+Hello, my name is Herman Effendi and I am a data science student at Universitas Airlangga. 
+
+I am very interested in analyzing data and machine learning. I use Python libraries such as pandas and numpy for analyzing the data, scikit-learn for model building and Power BI to communicate the results.
+
 ## Let's connect 🤝
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hrmneffdii)](https://github.com/hrmneffdii)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herman-effendi/)](https://www.linkedin.com/in/herman-effendi/)
