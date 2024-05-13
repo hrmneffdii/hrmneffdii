@@ -3,16 +3,9 @@
   <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 </h1> 
 
-<img src="me.jpg" align="left" width="250" height="250" margin="50px" />
-
 Hello, my name is Herman Effendi and I am a data science student at Universitas Airlangga. 
 
 I am very interested in analyzing data and machine learning. I use Python libraries such as pandas and numpy for analyzing the data, scikit-learn for model building and Power BI to communicate the results.
-
-Hello, my name is Herman Effendi and I am a data science student at Universitas Airlangga. 
-
-I am very interested in analyzing data and machine learning. I use Python libraries such as pandas and numpy for analyzing the data, scikit-learn for model building and Power BI to communicate the results.
-
 <br>
 
 <br>
