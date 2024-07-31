@@ -26,17 +26,21 @@
 ### Project
 
 
-| **Title**        | **Description**                                                                                                                                                                                                                                                                               |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Title**           | **Description**                                                                                                                                                                                                                                                                            |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Foundry Fund Me](https://github.com/hrmneffdii/foundry-fund-me/tree/main)  |  It aims to modernize the traditional fundraising landscape by providing a transparent, secure, and efficient platform |
-| [Foundry NFT]() | 
-
-
+| [Foundry NFT](https://github.com/hrmneffdii/foundry-nft) | Create a simple nft to implement ERC721 as well as deploying it on testnet|
+| [Foundry DeFi Stablecoin](https://github.com/hrmneffdii/foundry-defi-stablecoin) |  A stablecoin that maintains its value through robust collateral management | 
 
 ### Auditing
 
-<p align="center"><i>“I will lose myself when I stop learning and coding.”</i></p>
-<p align="center"><i>- Herman Effendi -</i></p>
+
+
+
+### Let's Connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herman-effendi/)](https://www.linkedin.com/in/herman-effendi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hermaneffendi0502@gmail.com)](mailto:hermaneffendi0502@gmail.com)
+
+<p align="center"><i>“I will lose myself when I stop learning.”</i></p>
+<p align="center"><i>- Herman Effendi -</i></p>
