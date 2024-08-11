@@ -38,10 +38,11 @@
 
 ### Auditing
 
-| **Title**                                                                          | **Description**                                                                                                                                                             | **Tags**                                    |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| [Audit Password Store](https://github.com/hrmneffdii/Audit-Foundry-Password-Store/blob/passwordstore-audit/audit-data/report.pdf) | A smart contract applicatoin for storing a password. Users should be able to store a password and then retrieve it later. Others should not be able to access the password. | - Private Variable <br> - No Access control |
-| [Audit Puppy Raffle](https://github.com/hrmneffdii/audit-puppy-raffle/blob/main/audit-data/report.pdf) | This project is to enter a raffle to win a cute dog NFT| - Reentrancy <br> - DoS <br> - Unsafe casting <br> - Math overflow <br> - Weak randomness|
+| **Title**                                                                          | **Description**                                                                                                                                                        | **Tags**                                         |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [Password Store](https://github.com/hrmneffdii/Audit-Foundry-Password-Store/blob/passwordstore-audit/audit-data/report.pdf) | A smart contract applicatoin for storing a password. Users should be able to store a password and then retrieve it later. Others should not be able to access the password. | - Private Variable <br> - No Access control |
+| [Raffle](https://github.com/hrmneffdii/audit-puppy-raffle/blob/main/audit-data/report.pdf) | This project is to enter a raffle to win a cute dog NFT| - Reentrancy <br> - DoS <br> - Unsafe casting <br> - Math overflow <br> - Weak randomness|
+| [Tswap](https://github.com/hrmneffdii/audit-t-swap/blob/main/audit-data/report.pdf) | The protocol allow a users to swap eth for poolToken and vice versa. The protocol is mini functionality of Uniswap | - Invariant broken <br> - Error business logic <br> - Missing deadline check | 
 ### Let's Connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herman-effendi/)](https://www.linkedin.com/in/herman-effendi/)
