@@ -3,7 +3,7 @@
   <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 </h1> 
 
-*(Currently looking opportunities for internship as a smart contract engineer/security researcher!)*
+*(Currently looking opportunities for internship as a smart contract engineer/security researcher! [My cv](./Herman%20effendi_CV.pdf))*
 
 #### I am captivated by the security challenges and potential of smart contracts within blockchain technology. Driven by a deep curiosity, I explore and analyze the intricacies of decentralized systems, with a particular emphasis on identifying and mitigating vulnerabilities in smart contracts.
 
