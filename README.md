@@ -28,8 +28,8 @@
 
 ### On progress
 
+- Completing journey with solidity exercises by [RareSkills](https://github.com/RareSkills/Solidity-Exercises) with my own [solutions](https://github.com/hrmneffdii/solidity-exercise-by-rareskills)
 - Try to complete [Damn Vulnerable Defi Chalenges](https://www.damnvulnerabledefi.xyz) with my own [solutions](https://github.com/hrmneffdii/DVD-V4-Solutions)
-- Learning journey with solidity exercises by [RareSkills](https://github.com/RareSkills/Solidity-Exercises) with my own [solutions](https://github.com/hrmneffdii/solidity-exercise-by-rareskills)
 
 ### Project
 
