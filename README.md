@@ -3,16 +3,18 @@
   <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 </h1> 
 
-*(Currently looking opportunities for internship as a smart contract engineer/security researcher! [My cv](./Herman%20effendi_CV.pdf))*
+*(Currently looking opportunities for internship as a blockchain developer(Smart Contract) ! [My cv](./Herman%20effendi_CV.pdf))*
 
 #### I am captivated by the security challenges and potential of smart contracts within blockchain technology. Driven by a deep curiosity, I explore and analyze the intricacies of decentralized systems, with a particular emphasis on identifying and mitigating vulnerabilities in smart contracts.
 
 ## Technologies and tools
 
-- Solidity
-- Foundry
-- Slither
-- Aderyn
+Build Smart Contract : Solidity, Foundry
+
+Static Analysis Tools : Slither, Aderyn
+
+Web Tech Stack: ReactJs, ExpressJs, NextJs
+  
 
 ## Ability
 
@@ -31,7 +33,7 @@
 - Completing journey with solidity exercises by [RareSkills](https://github.com/RareSkills/Solidity-Exercises) with my own [solutions](https://github.com/hrmneffdii/solidity-exercise-by-rareskills)
 - Try to complete [Damn Vulnerable Defi Chalenges](https://www.damnvulnerabledefi.xyz) with my own [solutions](https://github.com/hrmneffdii/DVD-V4-Solutions)
 
-### Project
+### Project Smart Contract Based
 
 
 | **Title**                                                                                | **Description**                                                                                                                        |
@@ -41,15 +43,26 @@
 | [Foundry DeFi Stablecoin](https://github.com/hrmneffdii/foundry-defi-stablecoin)         | A stablecoin that maintains its value through robust collateral management                                                             |
 | [Upgradeable Smart Contract](https://github.com/hrmneffdii/foundry-upgradeable-contract) | A smart contract application for implementing upgradeable smart contract via UUPS. Users should be able to use implementation of BoxV1 |
 
+
+### Project Web Based
+
+| **Title**                                                                                | **Description**                                                                                                                        |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| [Recommendation Movie](https://github.com/hrmneffdii/Morec--Movie-Recommender-Website)               | The project is implemented by recommendation system of machine learning. A tech stack MERN with python integration. Allows someone click the film as well as receive a film recommendations.                  |
+| [My web portfolio](https://herman-effendi.vercel.app/)               | This project aims to report such as my short biography etc. This project is built with Typescript, NextJs and Tailwind.   |
+
+
 ### Auditing
 
-| **Title**                                                                          | **Description**                                                                                                                                                        | **Tags**                                         |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [Password Store](https://github.com/hrmneffdii/Audit-Foundry-Password-Store/blob/passwordstore-audit/audit-data/report.pdf) | A smart contract applicatoin for storing a password. Users should be able to store a password and then retrieve it later. Others should not be able to access the password. | - Private Variable <br> - No Access control |
-| [Raffle](https://github.com/hrmneffdii/audit-puppy-raffle/blob/main/audit-data/report.pdf) | This project is to enter a raffle to win a cute dog NFT| - Reentrancy <br> - DoS <br> - Unsafe casting <br> - Math overflow <br> - Weak randomness|
-| [Tswap](https://github.com/hrmneffdii/audit-t-swap/blob/main/audit-data/report.pdf) | The protocol allow a users to swap eth for poolToken and vice versa. The protocol is mini functionality of Uniswap | - Invariant broken <br> - Error business logic <br> - Missing deadline check | 
-| [ThunderLoan](https://github.com/hrmneffdii/audit-thunderloan/blob/main/audit-data/report.pdf) | Thunderloan is one of the DeFi applications that allows user to take flash loan. A user take flash loans to arbitrage something and repay it in one transaction  | - Storage collision <br> - Logic Error <br> - Oracle Manipulation |
-| [Boss Bridge](https://github.com/hrmneffdii/audit-boss-bridge/blob/main/audit-data/report.pdf) | Boss Bridge is one of the DeFi applications that allows a user to send L1 token to L2 token that leverage vault concept. | - Signature replay <br> - Low level call <br> - Infinite minting |
+
+
+| **Title**                                                                                                                   | **Description**                                                                                                                                                             | **Tags**                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [Password Store](https://github.com/hrmneffdii/Audit-Foundry-Password-Store/blob/passwordstore-audit/audit-data/report.pdf) | A smart contract applicatoin for storing a password. Users should be able to store a password and then retrieve it later. Others should not be able to access the password. | - Private Variable <br> - No Access control                                               |
+| [Raffle](https://github.com/hrmneffdii/audit-puppy-raffle/blob/main/audit-data/report.pdf)                                  | This project is to enter a raffle to win a cute dog NFT                                                                                                                     | - Reentrancy <br> - DoS <br> - Unsafe casting <br> - Math overflow <br> - Weak randomness |
+| [Tswap](https://github.com/hrmneffdii/audit-t-swap/blob/main/audit-data/report.pdf)                                         | The protocol allow a users to swap eth for poolToken and vice versa. The protocol is mini functionality of Uniswap                                                          | - Invariant broken <br> - Error business logic <br> - Missing deadline check              |
+| [ThunderLoan](https://github.com/hrmneffdii/audit-thunderloan/blob/main/audit-data/report.pdf)                              | Thunderloan is one of the DeFi applications that allows user to take flash loan. A user take flash loans to arbitrage something and repay it in one transaction             | - Storage collision <br> - Logic Error <br> - Oracle Manipulation                         |
+| [Boss Bridge](https://github.com/hrmneffdii/audit-boss-bridge/blob/main/audit-data/report.pdf)                              | Boss Bridge is one of the DeFi applications that allows a user to send L1 token to L2 token that leverage vault concept.                                                    | - Signature replay <br> - Low level call <br> - Infinite minting                          |
 ### Let's Connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herman-effendi/)](https://www.linkedin.com/in/herman-effendi/)
