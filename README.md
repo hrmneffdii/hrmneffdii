@@ -10,6 +10,7 @@
 
 | Contest                                                                                 | Findings   | Rank  |
 | :-------------------------------------------------------------------------------------- | :--------- | :---: |
+| [Metropolis](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf)     |  -         |   -   |
 | [defi-app](https://cantina.xyz/competitions/1b64737c-1373-4ecf-a179-4cd0d7b0b232)       | 2M         |  15   |
 | [daao-contracts](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | 5H         |  68   |
 | [Stake-up](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf)       | 1H         |   -   |
@@ -31,7 +32,7 @@
 | :---------------------------------------------------------- | :--------- | :---: |
 | [Crestal Network](https://audits.sherlock.xyz/contests/755) | 1M         |   5   |
 | [Plaza Finance](https://audits.sherlock.xyz/contests/682)   | 1M         |   -   |
-| **Total**                                                   | 1 findings |
+| **Total**                                                   | 2 findings |
 
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/username)](https://t.me/hrmneffdii)
