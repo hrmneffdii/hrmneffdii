@@ -4,7 +4,10 @@
 
 ## **Technical Skills**
 
-## **Experience**
+## **Contact**
+- Email: `hermaneffendi0502@gmail.com`
+- Twitter/X: `@_hrmneffdi_`
+- Telegram: `@hrmneffdii`
 
 ## **Audit Competition**
 
